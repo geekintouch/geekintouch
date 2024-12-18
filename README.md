@@ -55,10 +55,10 @@ Delving into the world of web development and server-side technologies.</p>
   <h2 align="left">Collaboration</h2>
   <p>I'm open to collaborating on various projects, research papers, or anything tech-related. Let's create something amazing together!</p>
 <a href="https://www.linkedin.com/in/gshyamkiran/" target="_blank">
-  <img src="/images/Lin.svg" alt="LinkedIn" width="45" height="45" />
+  <img src="https://github.com/geekintouch/geekintouch/blob/main/Assets/image/Lin.svg" alt="LinkedIn" width="45" height="45" />
 </a>
 <a href="https://shyam-kiran.vercel.app" target="_blank">
-  <img src="/images/concard.svg" alt="Portfolio" width="70" height="49" />
+  <img src="https://github.com/geekintouch/geekintouch/blob/main/Assets/image/concard.svg" alt="Portfolio" width="70" height="49" />
 </a>
-<p>Explore my work: <a href="https://shyam-kiran.vercel.app" target="_blank">Visit Portfolio</a></p>
+<p>Wanna Know more about me?<a href="https://shyam-kiran.vercel.app" target="_blank">Visit Portfolio</a></p>
 
