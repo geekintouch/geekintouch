@@ -33,13 +33,13 @@
 
 <h2 align="left">Interests</h2>
 
-1. **Backend Technologies Exploration**
+1. **Backend Technologies**
    - Specializing in backend development using Spring Boot, Django, Node.js, and Express.
 
 2. **App Development**
    - Building cross-platform mobile applications with Flutter, incorporating modern UI/UX.
   
-3. **Computer Vision and AI**
+3. **Computer Vision & AI**
    - Explore GANs, Transformers, Diffusion, 3D rendering, and other exciting innovations.
 
 4. **GPU Programming**
