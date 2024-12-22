@@ -20,7 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="kubernetes logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
@@ -28,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain.svg" height="40" alt="arduino logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg" height="40" alt="arduino logo"/>         
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-line.svg" height="40" alt="rust logo"/>         
 </div>
 
 <h2 align="left">Interests</h2>
@@ -40,7 +41,7 @@
    - Building cross-platform mobile applications with Flutter, incorporating modern UI/UX.
   
 3. **Computer Vision & AI**
-   - Explore GANs, Transformers, Diffusion, 3D rendering, and other exciting innovations.
+   - Exploring GANs, Transformers, Diffusion, 3D rendering, and other exciting innovations.
 
 4. **GPU Programming**
    - Parallel computing landscape through GPU programming for accelerated computations and high-performance computing.
@@ -71,3 +72,7 @@
 - 🖥️ - Offer some work maybe.
 - 📣 - Follow me on Github and give a star to my projects that you liked.
 - 🤝🏼 - DM me on LinkedIn to connect or ... just Email.
+- 😄 - And a Dev Joke for y'aa:
+
+
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes"></a>
