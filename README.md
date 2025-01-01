@@ -1,5 +1,5 @@
 <a href="https://github.com/geekintouch">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=500&duration=1000&pause=500&multiline=true&repeat=true&width=435&height=100&lines=Welcome to my GitHub👋" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&weight=500&duration=2000&pause=500&multiline=true&repeat=true&width=435&height=100&lines=Hello👋! I'm Shyam Kiran" alt="Typing SVG" />
 </a>
 <h2 align="left" style="margin-top: 0;">About Me</h2>
 <p align="left">I'm a Software Engineer passionate about exploring and contributing to various technologies, making the most of my free time.</p>
